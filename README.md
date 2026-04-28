@@ -1,5 +1,5 @@
 # Bright-Learn-Exercises
-- This repository contains a collection of exercises completed as part of Bright Learn Data Science Course.
+- This repository contains a collection of exercises and practicals completed as part of Bright Learn Data Science Course.
 
 ## Aim
 - To demonstrate the SQL skills gained during the Data Science Course.
