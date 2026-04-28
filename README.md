@@ -9,6 +9,7 @@
 - Complete exercise 2: Aggregate functions and Grouping
 - Complete exercise 3: CASE Statement
 - Complete exercise 1: Joins, UNIONS, Filtering and Aggregate
+- Complete practical 3: Big Query 
 
 ## Content
 - Each exercise has 2 files: a pdf for Questions, and a pdf for Answers. 
